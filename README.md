@@ -1,3 +1,3 @@
 # EAE
 
-pytorch implementation of entorpy autoencoder.
+pytorch implementation of entropy autoencoder.
